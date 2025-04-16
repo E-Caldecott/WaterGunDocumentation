@@ -58,6 +58,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Switch Adapted Watergun_Design_Rationale](/Documentation/Switch_Adapted_Watergun_Design_Rationale.pdf)     |
 | Maker Guide          | 1.0     | [Switch Adapted Watergun_Maker_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
+| User Guide          | 1.0     | [Switch Adapted Watergun_User_Guide](/Documentation/Switch_Adapted_Watergun_Maker_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [Switch Adapted Watergun_Bill_of_Materials](/Documentation/Switch_Adapted_Watergun_BOM.txt)     |
 | Maker Checklist      | 1.0     | [Switch Adapted Watergun_Maker_Checklist](/Documentation/Switch_Adapted_Watergun_Maker_Checklist.pdf)    |
 
